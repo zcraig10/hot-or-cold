@@ -319,3 +319,13 @@ ul.guessBox li {
 	margin: 0.2em;
 	color: #fff;
 }
+
+#guessButton {
+	text-align: center;
+}
+
+#guessButton[disabled]:hover {
+	background-color: #1F253D;
+	color: #95a5a6;
+}
+
